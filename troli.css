@@ -17,7 +17,7 @@ p{
 
 #def{
   font-style: italic;
-  text-align: center;
+  text-align: justify;
 }
 
 #jaratviszonylatok{
@@ -58,8 +58,6 @@ p{
   border-radius: 10px; 
   }
 
-  
-  .borderf{
-    border: 1px solid black;
-    border-radius:10px;
+  #felGomb :hover{
+    background-color: #555;
   }
